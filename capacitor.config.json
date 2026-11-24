@@ -1,0 +1,15 @@
+{
+  "appId": "com.cryptoearngo.app",
+  "appName": "Crypto Earn Go",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "css",
+      "style": "DARK",
+      "initialViewportFitValueHint": "cover"
+    }
+  }
+}

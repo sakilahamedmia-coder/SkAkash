@@ -1,0 +1,1537 @@
+{
+  "users": [
+    {
+      "id": "CEG-751334",
+      "name": "Unverified Test",
+      "email": "unv_1795534276876@example.com",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=200&q=80",
+      "balance": 1,
+      "totalEarned": 1,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "referralCode": "CEGN6A97",
+      "referralEarnings": 0,
+      "referralCount": 0,
+      "status": "active",
+      "isVerified": false,
+      "paymentBadges": [],
+      "firstTaskCompleted": false,
+      "firstTaskBonusPaid": false,
+      "notificationPrefs": {
+        "pushEnabled": true
+      },
+      "role": "user",
+      "createdAt": "2026-11-24T15:31:16.968Z",
+      "lastLoginAt": "2026-11-24T15:31:16.968Z"
+    },
+    {
+      "id": "CEG-847918",
+      "name": "Google Verified User",
+      "email": "user_4749@gmail.com",
+      "googleId": "google-1795282247735",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "balance": 1,
+      "totalEarned": 1,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "referralCode": "CEG901",
+      "referralEarnings": 0,
+      "referralCount": 0,
+      "status": "active",
+      "isVerified": false,
+      "paymentBadges": [],
+      "firstTaskCompleted": false,
+      "firstTaskBonusPaid": false,
+      "notificationPrefs": {
+        "pushEnabled": true
+      },
+      "role": "user",
+      "createdAt": "2026-11-21T17:30:47.735Z",
+      "lastLoginAt": "2026-11-21T17:30:47.735Z",
+      "whatsappNumber": "",
+      "telegramLink": "",
+      "totalTransactionVolume": 1,
+      "hasVolumeVBadge": false
+    },
+    {
+      "id": "CEG-520708",
+      "name": "Google Verified User",
+      "email": "user_8512@gmail.com",
+      "googleId": "google-1795279107771",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "balance": 1,
+      "totalEarned": 1,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "referralCode": "CEG670",
+      "referralEarnings": 0,
+      "referralCount": 0,
+      "status": "active",
+      "isVerified": false,
+      "firstTaskCompleted": false,
+      "firstTaskBonusPaid": false,
+      "notificationPrefs": {
+        "pushEnabled": true
+      },
+      "role": "user",
+      "createdAt": "2026-11-21T16:38:27.771Z",
+      "lastLoginAt": "2026-11-21T16:38:27.771Z",
+      "paymentBadges": [],
+      "whatsappNumber": "",
+      "telegramLink": "",
+      "totalTransactionVolume": 1,
+      "hasVolumeVBadge": false
+    },
+    {
+      "id": "CEG-389433",
+      "name": "Google Verified User",
+      "email": "user_4545@gmail.com",
+      "googleId": "google-1794416257228",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "balance": 1,
+      "totalEarned": 1,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "referralCode": "CEG873",
+      "referralEarnings": 0,
+      "referralCount": 0,
+      "status": "active",
+      "role": "user",
+      "createdAt": "2026-11-11T16:57:37.228Z",
+      "lastLoginAt": "2026-11-11T16:57:37.228Z",
+      "isVerified": false,
+      "notificationPrefs": {
+        "pushEnabled": true
+      },
+      "paymentBadges": [],
+      "whatsappNumber": "",
+      "telegramLink": "",
+      "totalTransactionVolume": 1,
+      "hasVolumeVBadge": false
+    },
+    {
+      "id": "CEG-882941",
+      "name": "Alex Morgan",
+      "email": "demo@cryptoearngo.com",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=200&q=80",
+      "balance": 2507.55,
+      "totalEarned": 71.55,
+      "totalDeposited": 2575,
+      "totalWithdrawn": 15,
+      "referralCode": "CEG882",
+      "referralEarnings": 8.5,
+      "referralCount": 3,
+      "status": "active",
+      "role": "user",
+      "createdAt": "2026-11-01T16:37:14.914Z",
+      "lastLoginAt": "2026-11-11T16:37:14.914Z",
+      "isVerified": true,
+      "notificationPrefs": {
+        "pushEnabled": true
+      },
+      "paymentBadges": [
+        "bkash",
+        "nagad",
+        "crypto",
+        "binance",
+        "upay",
+        "rocket",
+        "gpay",
+        "paytm",
+        "phonepe",
+        "upi",
+        "khalti",
+        "esewa",
+        "imepay"
+      ],
+      "whatsappNumber": "+8801711000882",
+      "telegramLink": "https://t.me/alexmorgan_ceg",
+      "totalTransactionVolume": 2715.55,
+      "hasVolumeVBadge": true,
+      "volumeBadgeUnlockedAt": "2026-11-22T09:47:09.467Z",
+      "country": "BD"
+    },
+    {
+      "id": "CEG-109432",
+      "name": "Sarah Connor",
+      "email": "sarah.k@cryptoearngo.com",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80",
+      "balance": 14.2,
+      "totalEarned": 14.2,
+      "totalDeposited": 20,
+      "totalWithdrawn": 11.8,
+      "referralCode": "CEG109",
+      "referredBy": "CEG-882941",
+      "referralEarnings": 2,
+      "referralCount": 1,
+      "status": "active",
+      "role": "user",
+      "createdAt": "2026-11-05T16:37:14.914Z",
+      "lastLoginAt": "2026-11-10T16:37:14.914Z",
+      "isVerified": false,
+      "notificationPrefs": {
+        "pushEnabled": true
+      },
+      "paymentBadges": [],
+      "whatsappNumber": "",
+      "telegramLink": "",
+      "totalTransactionVolume": 31.8,
+      "hasVolumeVBadge": false
+    },
+    {
+      "id": "CEG-994102",
+      "name": "Suspicious Trader",
+      "email": "badactor@cryptoearngo.com",
+      "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?auto=format&fit=crop&w=200&q=80",
+      "balance": 0,
+      "totalEarned": 0,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "referralCode": "CEG994",
+      "referralEarnings": 0,
+      "referralCount": 0,
+      "status": "banned",
+      "banReason": "Submitting forged transaction hashes and duplicate accounts.",
+      "role": "user",
+      "createdAt": "2026-11-03T16:37:14.914Z",
+      "lastLoginAt": "2026-11-09T16:37:14.914Z",
+      "isVerified": false,
+      "notificationPrefs": {
+        "pushEnabled": true
+      },
+      "paymentBadges": [],
+      "whatsappNumber": "",
+      "telegramLink": "",
+      "totalTransactionVolume": 0,
+      "hasVolumeVBadge": false
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "title": "Antminer Cloud Hashrate 10TH/s",
+      "description": "High-efficiency BEP20 cloud compute node bundle with automated daily task yield and power optimization.",
+      "price": 25,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "category": "Mining Node",
+      "stock": 84,
+      "isAvailable": true,
+      "features": [
+        "10 TH/s Hashrate",
+        "Automated Daily Rewards",
+        "24/7 Node Uptime",
+        "Instant BEP20 Settlement"
+      ],
+      "createdAt": "2026-11-06T16:37:14.914Z",
+      "dailyRewardAmount": 1.25,
+      "durationDays": 30
+    },
+    {
+      "id": "prod-2",
+      "title": "Crypto Trading Mastercourse & VIP Signals",
+      "description": "Lifetime access to institutional market indicators, risk-management strategies, and real-time Web3 alpha.",
+      "price": 15,
+      "image": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=800&q=80",
+      "category": "Education",
+      "stock": 190,
+      "isAvailable": true,
+      "features": [
+        "Telegram VIP Group Access",
+        "Daily Technical Analysis",
+        "Risk Management Formulas",
+        "Live Masterclasses"
+      ],
+      "createdAt": "2026-11-07T16:37:14.914Z",
+      "dailyRewardAmount": 0.75,
+      "durationDays": 30
+    },
+    {
+      "id": "prod-3",
+      "title": "Titan Cold Hardware Key Card",
+      "description": "Ultra-secure biometric NFC hardware card designed to secure your BEP20 and multichain private keys offline.",
+      "price": 49,
+      "image": "https://images.unsplash.com/photo-1622979135225-d2ba269bc1df?auto=format&fit=crop&w=800&q=80",
+      "category": "Security",
+      "stock": 41,
+      "isAvailable": true,
+      "features": [
+        "EAL6+ Secure Element",
+        "NFC Phone Tap Sync",
+        "Waterproof Titanium Alloy",
+        "Air-Gapped Signing"
+      ],
+      "createdAt": "2026-11-08T16:37:14.914Z",
+      "dailyRewardAmount": 2.45,
+      "durationDays": 30
+    },
+    {
+      "id": "prod-4",
+      "title": "DeFi Automated Arbitrage Bot Access",
+      "description": "Algorithmic smart-contract scanner for BNB Chain decentralized exchanges with zero slip protection.",
+      "price": 35,
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "category": "Software",
+      "stock": 110,
+      "isAvailable": true,
+      "features": [
+        "Sub-Second Arbitrage Detection",
+        "BNB PancakeSwap Integration",
+        "Custom Gas Multiplier",
+        "Real-time Telegram Alerts"
+      ],
+      "createdAt": "2026-11-09T16:37:14.914Z",
+      "dailyRewardAmount": 1.75,
+      "durationDays": 30
+    },
+    {
+      "id": "prod-5",
+      "title": "VIP Ambassador Lifetime Tier",
+      "description": "Double your referral commission tier (20%), priority 24/7 dedicated support, and zero withdrawal platform fees.",
+      "price": 75,
+      "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
+      "category": "VIP Club",
+      "stock": 18,
+      "isAvailable": true,
+      "features": [
+        "20% Referral Commission",
+        "Zero Platform Withdrawal Fees",
+        "Direct WhatsApp Line to Admins",
+        "Exclusive Partner Airdrops"
+      ],
+      "createdAt": "2026-11-10T16:37:14.914Z",
+      "dailyRewardAmount": 3.75,
+      "durationDays": 30
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1794416349653",
+      "userId": "CEG-882941",
+      "userEmail": "demo@cryptoearngo.com",
+      "productId": "prod-3",
+      "productTitle": "Titan Cold Hardware Key Card",
+      "productPrice": 49,
+      "status": "completed",
+      "createdAt": "2026-11-11T16:59:09.653Z",
+      "dailyRewardAmount": 2.45,
+      "durationDays": 30,
+      "daysClaimed": 0,
+      "totalEarnedFromOrder": 0,
+      "expiresAt": "2026-12-11T16:59:09.653Z"
+    },
+    {
+      "id": "ord-1794415822190",
+      "userId": "CEG-882941",
+      "userEmail": "demo@cryptoearngo.com",
+      "productId": "prod-1",
+      "productTitle": "Antminer Cloud Hashrate 10TH/s",
+      "productPrice": 25,
+      "status": "completed",
+      "createdAt": "2026-11-11T16:50:22.190Z",
+      "dailyRewardAmount": 1.25,
+      "durationDays": 30,
+      "daysClaimed": 0,
+      "totalEarnedFromOrder": 0,
+      "expiresAt": "2026-12-11T16:50:22.190Z"
+    },
+    {
+      "id": "ord-101",
+      "userId": "CEG-882941",
+      "userEmail": "demo@cryptoearngo.com",
+      "productId": "prod-2",
+      "productTitle": "Crypto Trading Mastercourse & VIP Signals",
+      "productPrice": 15,
+      "status": "completed",
+      "createdAt": "2026-11-04T16:37:14.914Z",
+      "dailyRewardAmount": 0.75,
+      "durationDays": 30,
+      "daysClaimed": 0,
+      "totalEarnedFromOrder": 0,
+      "expiresAt": "2026-12-04T16:37:14.914Z"
+    }
+  ],
+  "deposits": [
+    {
+      "id": "dep-1795340798922",
+      "userId": "CEG-882941",
+      "userName": "Alex Morgan",
+      "userEmail": "demo@cryptoearngo.com",
+      "amount": 2500,
+      "txHash": "0x9f3a8c71b40d22e91f66c8a10293d8a7e5c31029384756abcdef0123456789ab",
+      "network": "USDT BEP-20",
+      "walletAddress": "0x71C8A3297a760bF1c0678F45a1fA723c3B08bF49",
+      "status": "approved",
+      "notes": "Verified on BscScan",
+      "createdAt": "2026-11-22T09:46:38.922Z",
+      "processedAt": "2026-11-22T09:47:09.467Z"
+    },
+    {
+      "id": "dep-101",
+      "userId": "CEG-882941",
+      "userName": "Alex Morgan",
+      "userEmail": "demo@cryptoearngo.com",
+      "amount": 50,
+      "txHash": "0x3a9b1c7849f283d8e901bca293847fec0912ab84736291bcde09283746a5b1c2",
+      "network": "USDT BEP-20",
+      "walletAddress": "0x71C8A3297a760bF1c0678F45a1fA723c3B08bF49",
+      "status": "approved",
+      "notes": "Verified on BSC Explorer block #34891022",
+      "createdAt": "2026-11-02T16:37:14.914Z",
+      "processedAt": "2026-11-02T16:47:14.914Z"
+    },
+    {
+      "id": "dep-102",
+      "userId": "CEG-109432",
+      "userName": "Sarah Connor",
+      "userEmail": "sarah.k@cryptoearngo.com",
+      "amount": 20,
+      "txHash": "0x88f12a938c4b7210984de28a19234bbcf90827361a72093846152019bca84729",
+      "network": "USDT BEP-20",
+      "walletAddress": "0x71C8A3297a760bF1c0678F45a1fA723c3B08bF49",
+      "status": "approved",
+      "notes": "Approved instantly via BEP-20 scanner",
+      "createdAt": "2026-11-06T16:37:14.914Z",
+      "processedAt": "2026-11-06T16:42:14.914Z"
+    },
+    {
+      "id": "dep-103",
+      "userId": "CEG-882941",
+      "userName": "Alex Morgan",
+      "userEmail": "demo@cryptoearngo.com",
+      "amount": 25,
+      "txHash": "0xbc940283746a5b1c23a9b1c7849f283d8e901bca293847fec0912ab84736291a",
+      "network": "USDT BEP-20",
+      "walletAddress": "0x71C8A3297a760bF1c0678F45a1fA723c3B08bF49",
+      "status": "approved",
+      "notes": "Verified on BscScan",
+      "createdAt": "2026-11-11T14:37:14.914Z",
+      "processedAt": "2026-11-11T16:53:40.475Z"
+    }
+  ],
+  "withdrawals": [
+    {
+      "id": "wth-201",
+      "userId": "CEG-882941",
+      "userName": "Alex Morgan",
+      "userEmail": "demo@cryptoearngo.com",
+      "amount": 15,
+      "network": "USDT BEP-20",
+      "toAddress": "0x99A46b1E834a36283C0123984E019bA0294Cbe01",
+      "fee": 0.15,
+      "finalAmount": 14.85,
+      "status": "approved",
+      "txHash": "0x6e284910bca93847fec0912ab84736291bcde09283746a5b1c23a9b1c7849f28",
+      "notes": "Processed successfully to user external BEP-20 wallet",
+      "createdAt": "2026-11-07T16:37:14.914Z",
+      "processedAt": "2026-11-07T17:07:14.914Z"
+    },
+    {
+      "id": "wth-202",
+      "userId": "CEG-109432",
+      "userName": "Sarah Connor",
+      "userEmail": "sarah.k@cryptoearngo.com",
+      "amount": 6,
+      "network": "USDT BEP-20",
+      "toAddress": "0x22cB18a892bA49821730B247a329F640274Ab893",
+      "fee": 0.2,
+      "finalAmount": 5.8,
+      "status": "approved",
+      "notes": "Processed and transferred on BNB Smart Chain (BEP-20).",
+      "createdAt": "2026-11-11T13:37:14.914Z",
+      "processedAt": "2026-11-11T16:53:43.535Z",
+      "txHash": "0x5abc0313579c5765f2992876754efbd4491f557015c0bdf46fdddbe3ffd0deae"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "tx-sign-1795534276968",
+      "userId": "CEG-751334",
+      "type": "reward_claim",
+      "amount": 1,
+      "balanceAfter": 1,
+      "description": "Welcome Sign-up Bonus",
+      "status": "completed",
+      "createdAt": "2026-11-24T15:31:16.968Z"
+    },
+    {
+      "id": "tx-dep-1795340829467",
+      "userId": "CEG-882941",
+      "type": "deposit",
+      "amount": 2500,
+      "balanceAfter": 2507.55,
+      "description": "Deposit Approved: $2500 USDT (USDT BEP-20)",
+      "status": "completed",
+      "referenceId": "dep-1795340798922",
+      "createdAt": "2026-11-22T09:47:09.467Z"
+    },
+    {
+      "id": "tx-sign-1795282247735",
+      "userId": "CEG-847918",
+      "type": "reward_claim",
+      "amount": 1,
+      "balanceAfter": 1,
+      "description": "Welcome Sign-up Bonus",
+      "status": "completed",
+      "createdAt": "2026-11-21T17:30:47.735Z"
+    },
+    {
+      "id": "tx-clm-1795280218600",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.5,
+      "balanceAfter": 7.55,
+      "description": "Task Claim: Daily Market Check-In",
+      "status": "completed",
+      "referenceId": "task-daily",
+      "createdAt": "2026-11-21T16:56:58.600Z"
+    },
+    {
+      "id": "tx-clm-1795280217647",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.25,
+      "balanceAfter": 7.05,
+      "description": "Task Claim: Hourly Energy Claim",
+      "status": "completed",
+      "referenceId": "task-hourly",
+      "createdAt": "2026-11-21T16:56:57.647Z"
+    },
+    {
+      "id": "tx-clm-1795280135703",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.6,
+      "balanceAfter": 6.8,
+      "description": "Task Claim: Crypto Security Knowledge Quiz",
+      "status": "completed",
+      "referenceId": "task-quiz",
+      "createdAt": "2026-11-21T16:55:35.703Z"
+    },
+    {
+      "id": "tx-clm-1795280130163",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.35,
+      "balanceAfter": 6.2,
+      "description": "Task Claim: Share Referral Link on WhatsApp",
+      "status": "completed",
+      "referenceId": "task-share",
+      "createdAt": "2026-11-21T16:55:30.163Z"
+    },
+    {
+      "id": "tx-sign-1795279107772",
+      "userId": "CEG-520708",
+      "type": "reward_claim",
+      "amount": 1,
+      "balanceAfter": 1,
+      "description": "Welcome Sign-up Bonus",
+      "status": "completed",
+      "createdAt": "2026-11-21T16:38:27.772Z"
+    },
+    {
+      "id": "tx-clm-1795013731037",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.5,
+      "balanceAfter": 5.85,
+      "description": "Task Claim: Daily Market Check-In",
+      "status": "completed",
+      "referenceId": "task-daily",
+      "createdAt": "2026-11-18T14:55:31.037Z"
+    },
+    {
+      "id": "tx-clm-1795013728998",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.25,
+      "balanceAfter": 5.35,
+      "description": "Task Claim: Hourly Energy Claim",
+      "status": "completed",
+      "referenceId": "task-hourly",
+      "createdAt": "2026-11-18T14:55:28.998Z"
+    },
+    {
+      "id": "tx-clm-1794416389314",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.75,
+      "balanceAfter": 5.1,
+      "description": "Task Claim: Join Official Telegram Community",
+      "status": "completed",
+      "referenceId": "task-telegram",
+      "createdAt": "2026-11-11T16:59:49.314Z"
+    },
+    {
+      "id": "tx-clm-1794416384165",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.75,
+      "balanceAfter": 4.35,
+      "description": "Task Claim: Join Official Telegram Community",
+      "status": "completed",
+      "referenceId": "task-telegram",
+      "createdAt": "2026-11-11T16:59:44.165Z"
+    },
+    {
+      "id": "tx-1794416349653",
+      "userId": "CEG-882941",
+      "type": "purchase",
+      "amount": -49,
+      "balanceAfter": 3.6,
+      "description": "Purchased \"Titan Cold Hardware Key Card\"",
+      "status": "completed",
+      "referenceId": "ord-1794416349653",
+      "createdAt": "2026-11-11T16:59:09.653Z"
+    },
+    {
+      "id": "tx-sign-1794416257228",
+      "userId": "CEG-389433",
+      "type": "reward_claim",
+      "amount": 1,
+      "balanceAfter": 1,
+      "description": "Welcome Sign-up Bonus",
+      "status": "completed",
+      "createdAt": "2026-11-11T16:57:37.228Z"
+    },
+    {
+      "id": "tx-dep-1794416020475",
+      "userId": "CEG-882941",
+      "type": "deposit",
+      "amount": 25,
+      "balanceAfter": 52.6,
+      "description": "Deposit Approved: $25 USDT (BEP-20)",
+      "status": "completed",
+      "referenceId": "dep-103",
+      "createdAt": "2026-11-11T16:53:40.475Z"
+    },
+    {
+      "id": "tx-clm-1794415939614",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.35,
+      "balanceAfter": 27.6,
+      "description": "Task Claim: Share Referral Link on WhatsApp",
+      "status": "completed",
+      "referenceId": "task-share",
+      "createdAt": "2026-11-11T16:52:19.614Z"
+    },
+    {
+      "id": "tx-clm-1794415933763",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.75,
+      "balanceAfter": 27.25,
+      "description": "Task Claim: Join Official Telegram Community",
+      "status": "completed",
+      "referenceId": "task-telegram",
+      "createdAt": "2026-11-11T16:52:13.763Z"
+    },
+    {
+      "id": "tx-clm-1794415930559",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.75,
+      "balanceAfter": 26.5,
+      "description": "Task Claim: Join Official Telegram Community",
+      "status": "completed",
+      "referenceId": "task-telegram",
+      "createdAt": "2026-11-11T16:52:10.559Z"
+    },
+    {
+      "id": "tx-clm-1794415926615",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.75,
+      "balanceAfter": 25.75,
+      "description": "Task Claim: Join Official Telegram Community",
+      "status": "completed",
+      "referenceId": "task-telegram",
+      "createdAt": "2026-11-11T16:52:06.615Z"
+    },
+    {
+      "id": "tx-clm-1794415901404",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.75,
+      "balanceAfter": 25,
+      "description": "Task Claim: Join Official Telegram Community",
+      "status": "completed",
+      "referenceId": "task-telegram",
+      "createdAt": "2026-11-11T16:51:41.404Z"
+    },
+    {
+      "id": "tx-clm-1794415897894",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.5,
+      "balanceAfter": 24.25,
+      "description": "Task Claim: Daily Market Check-In",
+      "status": "completed",
+      "referenceId": "task-daily",
+      "createdAt": "2026-11-11T16:51:37.894Z"
+    },
+    {
+      "id": "tx-clm-1794415895083",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.25,
+      "balanceAfter": 23.75,
+      "description": "Task Claim: Hourly Energy Claim",
+      "status": "completed",
+      "referenceId": "task-hourly",
+      "createdAt": "2026-11-11T16:51:35.083Z"
+    },
+    {
+      "id": "tx-1794415822190",
+      "userId": "CEG-882941",
+      "type": "purchase",
+      "amount": -25,
+      "balanceAfter": 23.5,
+      "description": "Purchased \"Antminer Cloud Hashrate 10TH/s\"",
+      "status": "completed",
+      "referenceId": "ord-1794415822190",
+      "createdAt": "2026-11-11T16:50:22.190Z"
+    },
+    {
+      "id": "tx-1",
+      "userId": "CEG-882941",
+      "type": "deposit",
+      "amount": 50,
+      "balanceAfter": 50,
+      "description": "Deposit approved (USDT BEP-20)",
+      "status": "completed",
+      "referenceId": "dep-101",
+      "createdAt": "2026-11-02T16:37:14.914Z"
+    },
+    {
+      "id": "tx-2",
+      "userId": "CEG-882941",
+      "type": "purchase",
+      "amount": -15,
+      "balanceAfter": 35,
+      "description": "Purchased \"Crypto Trading Mastercourse & VIP Signals\"",
+      "status": "completed",
+      "referenceId": "ord-101",
+      "createdAt": "2026-11-04T16:37:14.914Z"
+    },
+    {
+      "id": "tx-3",
+      "userId": "CEG-882941",
+      "type": "referral_commission",
+      "amount": 2,
+      "balanceAfter": 37,
+      "description": "10% Referral Commission from Sarah Connor (CEG-109432)",
+      "status": "completed",
+      "createdAt": "2026-11-06T16:37:14.914Z"
+    },
+    {
+      "id": "tx-4",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.25,
+      "balanceAfter": 37.25,
+      "description": "Claimed Hourly Energy Reward",
+      "status": "completed",
+      "referenceId": "task-hourly",
+      "createdAt": "2026-11-07T15:37:14.914Z"
+    },
+    {
+      "id": "tx-5",
+      "userId": "CEG-882941",
+      "type": "withdrawal",
+      "amount": -15,
+      "balanceAfter": 22.25,
+      "description": "Withdrawal to 0x99A4...be01 (USDT BEP-20)",
+      "status": "completed",
+      "referenceId": "wth-201",
+      "createdAt": "2026-11-07T16:37:14.914Z"
+    },
+    {
+      "id": "tx-6",
+      "userId": "CEG-882941",
+      "type": "reward_claim",
+      "amount": 0.5,
+      "balanceAfter": 22.75,
+      "description": "Daily Check-in Reward",
+      "status": "completed",
+      "referenceId": "task-daily",
+      "createdAt": "2026-11-09T16:37:14.914Z"
+    },
+    {
+      "id": "tx-7",
+      "userId": "CEG-882941",
+      "type": "deposit",
+      "amount": 25.75,
+      "balanceAfter": 48.5,
+      "description": "Deposit approved (USDT BEP-20)",
+      "status": "completed",
+      "createdAt": "2026-11-10T16:37:14.914Z"
+    }
+  ],
+  "referrals": [
+    {
+      "id": "ref-1",
+      "referrerId": "CEG-882941",
+      "referredUserId": "CEG-109432",
+      "referredUserName": "Sarah Connor",
+      "commissionEarned": 2,
+      "createdAt": "2026-11-05T16:37:14.914Z"
+    }
+  ],
+  "referralEvents": [
+    {
+      "id": "reft-click-1795500801412-285",
+      "referralCode": "CEG882",
+      "referrerId": "CEG-882941",
+      "eventType": "click",
+      "source": "final_check",
+      "createdAt": "2026-11-24T06:13:21.412Z"
+    },
+    {
+      "id": "reft-apk_download-1795500722139-139",
+      "referralCode": "CEG882",
+      "referrerId": "CEG-882941",
+      "eventType": "apk_download",
+      "source": "apk_direct_link",
+      "createdAt": "2026-11-24T06:12:02.139Z"
+    },
+    {
+      "id": "reft-click-1795500722117-524",
+      "referralCode": "CEG882",
+      "referrerId": "CEG-882941",
+      "eventType": "click",
+      "source": "curl_test",
+      "createdAt": "2026-11-24T06:12:02.117Z"
+    }
+  ],
+  "claims": [
+    {
+      "id": "clm-1795280218600",
+      "userId": "CEG-882941",
+      "taskId": "task-daily",
+      "taskTitle": "Daily Market Check-In",
+      "rewardAmount": 0.5,
+      "claimedAt": "2026-11-21T16:56:58.600Z"
+    },
+    {
+      "id": "clm-1795280217647",
+      "userId": "CEG-882941",
+      "taskId": "task-hourly",
+      "taskTitle": "Hourly Energy Claim",
+      "rewardAmount": 0.25,
+      "claimedAt": "2026-11-21T16:56:57.647Z"
+    },
+    {
+      "id": "clm-1795280135703",
+      "userId": "CEG-882941",
+      "taskId": "task-quiz",
+      "taskTitle": "Crypto Security Knowledge Quiz",
+      "rewardAmount": 0.6,
+      "claimedAt": "2026-11-21T16:55:35.703Z"
+    },
+    {
+      "id": "clm-1795280130163",
+      "userId": "CEG-882941",
+      "taskId": "task-share",
+      "taskTitle": "Share Referral Link on WhatsApp",
+      "rewardAmount": 0.35,
+      "claimedAt": "2026-11-21T16:55:30.163Z"
+    },
+    {
+      "id": "clm-1795013731037",
+      "userId": "CEG-882941",
+      "taskId": "task-daily",
+      "taskTitle": "Daily Market Check-In",
+      "rewardAmount": 0.5,
+      "claimedAt": "2026-11-18T14:55:31.037Z"
+    },
+    {
+      "id": "clm-1795013728998",
+      "userId": "CEG-882941",
+      "taskId": "task-hourly",
+      "taskTitle": "Hourly Energy Claim",
+      "rewardAmount": 0.25,
+      "claimedAt": "2026-11-18T14:55:28.998Z"
+    },
+    {
+      "id": "clm-1794416389313",
+      "userId": "CEG-882941",
+      "taskId": "task-telegram",
+      "taskTitle": "Join Official Telegram Community",
+      "rewardAmount": 0.75,
+      "claimedAt": "2026-11-11T16:59:49.313Z"
+    },
+    {
+      "id": "clm-1794416384165",
+      "userId": "CEG-882941",
+      "taskId": "task-telegram",
+      "taskTitle": "Join Official Telegram Community",
+      "rewardAmount": 0.75,
+      "claimedAt": "2026-11-11T16:59:44.165Z"
+    },
+    {
+      "id": "clm-1794415939614",
+      "userId": "CEG-882941",
+      "taskId": "task-share",
+      "taskTitle": "Share Referral Link on WhatsApp",
+      "rewardAmount": 0.35,
+      "claimedAt": "2026-11-11T16:52:19.614Z"
+    },
+    {
+      "id": "clm-1794415933763",
+      "userId": "CEG-882941",
+      "taskId": "task-telegram",
+      "taskTitle": "Join Official Telegram Community",
+      "rewardAmount": 0.75,
+      "claimedAt": "2026-11-11T16:52:13.763Z"
+    },
+    {
+      "id": "clm-1794415930559",
+      "userId": "CEG-882941",
+      "taskId": "task-telegram",
+      "taskTitle": "Join Official Telegram Community",
+      "rewardAmount": 0.75,
+      "claimedAt": "2026-11-11T16:52:10.559Z"
+    },
+    {
+      "id": "clm-1794415926615",
+      "userId": "CEG-882941",
+      "taskId": "task-telegram",
+      "taskTitle": "Join Official Telegram Community",
+      "rewardAmount": 0.75,
+      "claimedAt": "2026-11-11T16:52:06.615Z"
+    },
+    {
+      "id": "clm-1794415901404",
+      "userId": "CEG-882941",
+      "taskId": "task-telegram",
+      "taskTitle": "Join Official Telegram Community",
+      "rewardAmount": 0.75,
+      "claimedAt": "2026-11-11T16:51:41.404Z"
+    },
+    {
+      "id": "clm-1794415897894",
+      "userId": "CEG-882941",
+      "taskId": "task-daily",
+      "taskTitle": "Daily Market Check-In",
+      "rewardAmount": 0.5,
+      "claimedAt": "2026-11-11T16:51:37.894Z"
+    },
+    {
+      "id": "clm-1794415895083",
+      "userId": "CEG-882941",
+      "taskId": "task-hourly",
+      "taskTitle": "Hourly Energy Claim",
+      "rewardAmount": 0.25,
+      "claimedAt": "2026-11-11T16:51:35.083Z"
+    },
+    {
+      "id": "clm-1",
+      "userId": "CEG-882941",
+      "taskId": "task-hourly",
+      "taskTitle": "Hourly Energy Claim",
+      "rewardAmount": 0.25,
+      "claimedAt": "2026-11-11T13:37:14.914Z"
+    },
+    {
+      "id": "clm-2",
+      "userId": "CEG-882941",
+      "taskId": "task-daily",
+      "taskTitle": "Daily Market Check-In",
+      "rewardAmount": 0.5,
+      "claimedAt": "2026-11-10T16:37:14.914Z"
+    }
+  ],
+  "banners": [
+    {
+      "id": "ban-1",
+      "title": "Earn USDT Daily with CryptoEarnGo",
+      "subtitle": "Transparent activities & instant BEP-20 network payouts",
+      "imageUrl": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?auto=format&fit=crop&w=1200&q=80",
+      "badge": "HOT EARNING",
+      "linkUrl": "/earn"
+    },
+    {
+      "id": "ban-2",
+      "title": "Invite Friends, Earn 10% Commission",
+      "subtitle": "Automated instant referral rewards on every purchase",
+      "imageUrl": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=1200&q=80",
+      "badge": "LIFETIME COMMISSION",
+      "linkUrl": "/referrals"
+    }
+  ],
+  "videoBanners": [
+    {
+      "id": "vid-1",
+      "title": "Getting Started: Deposit & Claim USDT",
+      "description": "Learn how to submit your BEP-20 transaction ID and claim daily rewards on Android.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "thumbnail": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=800&q=80",
+      "duration": "1:45"
+    },
+    {
+      "id": "vid-2",
+      "title": "Understanding BEP-20 Low Fee Network",
+      "description": "Why BNB Smart Chain powers lightning-fast, ultra-low gas fee transactions.",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "thumbnail": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+      "duration": "2:15"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "task-hourly",
+      "title": "Hourly Energy Claim",
+      "description": "Activate your active cloud node and claim your hourly loyalty reward.",
+      "rewardAmount": 0.25,
+      "cooldownMinutes": 60,
+      "iconName": "Clock",
+      "category": "daily",
+      "actionText": "Claim Reward"
+    },
+    {
+      "id": "task-daily",
+      "title": "Daily Market Check-In",
+      "description": "Log in daily to maintain your loyalty streak and earn a bonus.",
+      "rewardAmount": 0.5,
+      "cooldownMinutes": 1440,
+      "iconName": "CalendarCheck",
+      "category": "daily",
+      "actionText": "Check-In"
+    },
+    {
+      "id": "task-telegram",
+      "title": "Join Official Telegram Community",
+      "description": "Join thousands of members for real-time announcements and community tips.",
+      "rewardAmount": 0.75,
+      "cooldownMinutes": 0,
+      "iconName": "Send",
+      "category": "social",
+      "actionUrl": "https://t.me/CryptoEarnGo_Official",
+      "actionText": "Join & Claim"
+    },
+    {
+      "id": "task-quiz",
+      "title": "Crypto Security Knowledge Quiz",
+      "description": "Complete 3 quick questions about private key and phishing safety.",
+      "rewardAmount": 0.6,
+      "cooldownMinutes": 720,
+      "iconName": "GraduationCap",
+      "category": "learning",
+      "actionText": "Take Quiz"
+    },
+    {
+      "id": "task-share",
+      "title": "Share Referral Link on WhatsApp",
+      "description": "Broadcast your invitation code to friends or social groups.",
+      "rewardAmount": 0.35,
+      "cooldownMinutes": 720,
+      "iconName": "Share2",
+      "category": "social",
+      "actionText": "Share Link"
+    }
+  ],
+  "settings": {
+    "usdtBep20Address": "0x71C8A3297a760bF1c0678F45a1fA723c3B08bF49",
+    "minDeposit": 10,
+    "depositNetworks": [
+      {
+        "id": "BEP20",
+        "code": "BSC (BEP20)",
+        "name": "BNB Smart Chain (BEP20)",
+        "shortLabel": "USDT BEP-20",
+        "walletAddress": "0x71C8A3297a760bF1c0678F45a1fA723c3B08bF49",
+        "minDeposit": 10,
+        "estimatedTime": "~2 mins",
+        "confirmations": "15 Block Confirmations",
+        "feeLabel": "0 USDT",
+        "explorerTxBase": "https://bscscan.com/tx/",
+        "enabled": true
+      },
+      {
+        "id": "TRC20",
+        "code": "TRX (TRC20)",
+        "name": "TRON (TRC20)",
+        "shortLabel": "USDT TRC-20",
+        "walletAddress": "TQn9Y2khEsLJW1ChVWFMSMeRDow5KcbLSE",
+        "minDeposit": 10,
+        "estimatedTime": "~1 min",
+        "confirmations": "1 Block Confirmation",
+        "feeLabel": "0 USDT",
+        "explorerTxBase": "https://tronscan.org/#/transaction/",
+        "enabled": true
+      },
+      {
+        "id": "SOL",
+        "code": "SOL",
+        "name": "Solana",
+        "shortLabel": "USDT Solana",
+        "walletAddress": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+        "minDeposit": 5,
+        "estimatedTime": "~1 min",
+        "confirmations": "1 Confirmation",
+        "feeLabel": "0 USDT",
+        "explorerTxBase": "https://solscan.io/tx/",
+        "enabled": true
+      },
+      {
+        "id": "POLYGON",
+        "code": "MATIC (Polygon)",
+        "name": "Polygon POS",
+        "shortLabel": "USDT Polygon",
+        "walletAddress": "0x71C8A3297a760bF1c0678F45a1fA723c3B08bF49",
+        "minDeposit": 5,
+        "estimatedTime": "~3 mins",
+        "confirmations": "128 Block Confirmations",
+        "feeLabel": "0 USDT",
+        "explorerTxBase": "https://polygonscan.com/tx/",
+        "enabled": true
+      },
+      {
+        "id": "ERC20",
+        "code": "ETH (ERC20)",
+        "name": "Ethereum (ERC20)",
+        "shortLabel": "USDT ERC-20",
+        "walletAddress": "0x71C8A3297a760bF1c0678F45a1fA723c3B08bF49",
+        "minDeposit": 20,
+        "estimatedTime": "~5 mins",
+        "confirmations": "6 Block Confirmations",
+        "feeLabel": "0 USDT",
+        "explorerTxBase": "https://etherscan.io/tx/",
+        "enabled": true
+      }
+    ],
+    "minWithdrawal": 2,
+    "withdrawalFeePercent": 1,
+    "referralCommissionPercent": 10,
+    "firstTaskBonusPercent": 20,
+    "dailyClaimEnabled": true,
+    "dailyClaimTitle": "Daily Claim Bonus",
+    "dailyClaimDescription": "Collect your guaranteed daily USDT reward every 24 hours.",
+    "claimIntervalMinutes": 1440,
+    "claimRewardAmount": 0.5,
+    "whatsappLink": "https://wa.me/15557892345",
+    "telegramLink": "https://t.me/CryptoEarnGo_Official",
+    "appVersion": "v2.4.1",
+    "apkDownloadUrl": "https://ais-dev-3ss5cnaatd5c5lkz7gr5wj-857917240172.asia-northeast1.run.app/downloads/CryptoEarnGo-v2.4.1.apk",
+    "apkReleaseNotes": "Release v2.4.1: Instant USDT BEP-20 validator, ultra-smooth UI animations, and improved real-time account sync.",
+    "forceUpdate": false,
+    "announcement": "🚀 Welcome to CryptoEarnGo! USDT BEP-20 deposits & withdrawals operate 24/7 with instant synchronization.",
+    "maintenanceMode": false,
+    "companyInfo": {
+      "companyName": "CryptoEarnGo Global Technologies Ltd.",
+      "registrationNumber": "CEG-REG-2024-88412",
+      "jurisdiction": "Singapore · ACRA Registered FinTech Entity",
+      "foundedYear": "2024",
+      "headquarters": "10 Marina Boulevard, Marina Bay Financial Centre, Singapore",
+      "officialEmail": "support@cryptoearngo.com",
+      "officialWebsite": "https://cryptoearngo.com",
+      "description": "CryptoEarnGo is a transparent Web3 cloud compute and USDT reward ecosystem operating automated BEP-20 settlements, verified partner payouts, and 24/7 user support.",
+      "licenses": []
+    }
+  },
+  "auditLogs": [
+    {
+      "id": "log-1795534276988-573",
+      "action": "USER_PROFILE_UPDATED",
+      "details": "User Alex Morgan (CEG-882941) updated profile details",
+      "timestamp": "2026-11-24T15:31:16.988Z"
+    },
+    {
+      "id": "log-1795534276969-108",
+      "action": "USER_REGISTERED",
+      "details": "New user registered: Unverified Test (CEG-751334)",
+      "timestamp": "2026-11-24T15:31:16.969Z"
+    },
+    {
+      "id": "log-1795502451440-104",
+      "action": "SETTINGS_UPDATED",
+      "details": "Settings updated: companyInfo, depositNetworks",
+      "timestamp": "2026-11-24T06:40:51.440Z"
+    },
+    {
+      "id": "log-1795502451431-417",
+      "action": "SETTINGS_UPDATED",
+      "details": "Settings updated: companyInfo, depositNetworks",
+      "timestamp": "2026-11-24T06:40:51.431Z"
+    },
+    {
+      "id": "log-1795502451424-79",
+      "action": "ADMIN_LOGIN",
+      "details": "Administrator authenticated via verified account (CEG-882941) and started a secure session",
+      "timestamp": "2026-11-24T06:40:51.424Z"
+    },
+    {
+      "id": "log-1795342511658-94",
+      "action": "NOTIFICATION_PREFS_UPDATED",
+      "details": "User Sarah Connor (CEG-109432) updated Push notification settings",
+      "timestamp": "2026-11-22T10:15:11.658Z"
+    },
+    {
+      "id": "log-1795342458226-769",
+      "action": "ADMIN_LOGIN",
+      "details": "Administrator authenticated via verified account (CEG-882941) and started a secure session",
+      "timestamp": "2026-11-22T10:14:18.226Z"
+    },
+    {
+      "id": "log-1795340829469-640",
+      "action": "DEPOSIT_APPROVED",
+      "details": "Admin approved deposit dep-1795340798922 ($2500 USDT) for Alex Morgan",
+      "timestamp": "2026-11-22T09:47:09.469Z"
+    },
+    {
+      "id": "log-1795340829467-629",
+      "action": "VOLUME_VBADGE_UNLOCKED",
+      "details": "User Alex Morgan (CEG-882941) automatically unlocked the Colorful $2,000+ V-Badge ($2715.55 USDT volume)",
+      "timestamp": "2026-11-22T09:47:09.467Z"
+    },
+    {
+      "id": "log-1795340815289-534",
+      "action": "ADMIN_LOGIN",
+      "details": "Administrator authenticated via verified account (CEG-882941) and started a secure session",
+      "timestamp": "2026-11-22T09:46:55.290Z"
+    },
+    {
+      "id": "log-1795340798923-168",
+      "action": "DEPOSIT_SUBMITTED",
+      "details": "Deposit of $2500 USDT BEP-20 submitted by Alex Morgan (CEG-882941). TxHash: 0x9f3a8c71...",
+      "timestamp": "2026-11-22T09:46:38.923Z"
+    },
+    {
+      "id": "log-1795338171699-576",
+      "action": "USER_PROFILE_UPDATED",
+      "details": "User Alex Morgan (CEG-882941) updated profile details",
+      "timestamp": "2026-11-22T09:02:51.699Z"
+    },
+    {
+      "id": "log-1795338170340-267",
+      "action": "USER_PROFILE_UPDATED",
+      "details": "User Alex Morgan (CEG-882941) updated profile details",
+      "timestamp": "2026-11-22T09:02:50.340Z"
+    },
+    {
+      "id": "log-1795338169171-109",
+      "action": "USER_PROFILE_UPDATED",
+      "details": "User Alex Morgan (CEG-882941) updated profile details",
+      "timestamp": "2026-11-22T09:02:49.171Z"
+    },
+    {
+      "id": "log-1795338166271-433",
+      "action": "USER_PROFILE_UPDATED",
+      "details": "User Alex Morgan (CEG-882941) updated profile details",
+      "timestamp": "2026-11-22T09:02:46.271Z"
+    },
+    {
+      "id": "log-1795338164857-769",
+      "action": "USER_PROFILE_UPDATED",
+      "details": "User Alex Morgan (CEG-882941) updated profile details",
+      "timestamp": "2026-11-22T09:02:44.857Z"
+    },
+    {
+      "id": "log-1795338163895-648",
+      "action": "USER_PROFILE_UPDATED",
+      "details": "User Alex Morgan (CEG-882941) updated profile details",
+      "timestamp": "2026-11-22T09:02:43.895Z"
+    },
+    {
+      "id": "log-1795338163433-914",
+      "action": "USER_PROFILE_UPDATED",
+      "details": "User Alex Morgan (CEG-882941) updated profile details",
+      "timestamp": "2026-11-22T09:02:43.433Z"
+    },
+    {
+      "id": "log-1795338162961-889",
+      "action": "USER_PROFILE_UPDATED",
+      "details": "User Alex Morgan (CEG-882941) updated profile details",
+      "timestamp": "2026-11-22T09:02:42.961Z"
+    },
+    {
+      "id": "log-1795338162133-470",
+      "action": "USER_PROFILE_UPDATED",
+      "details": "User Alex Morgan (CEG-882941) updated profile details",
+      "timestamp": "2026-11-22T09:02:42.133Z"
+    },
+    {
+      "id": "log-1795338161654-464",
+      "action": "USER_PROFILE_UPDATED",
+      "details": "User Alex Morgan (CEG-882941) updated profile details",
+      "timestamp": "2026-11-22T09:02:41.654Z"
+    },
+    {
+      "id": "log-1795338160287-999",
+      "action": "USER_PROFILE_UPDATED",
+      "details": "User Alex Morgan (CEG-882941) updated profile details",
+      "timestamp": "2026-11-22T09:02:40.287Z"
+    },
+    {
+      "id": "log-1795282247736-375",
+      "action": "USER_REGISTERED",
+      "details": "New user registered: Google Verified User (CEG-847918)",
+      "timestamp": "2026-11-21T17:30:47.736Z"
+    },
+    {
+      "id": "log-1795280218600-500",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.5 for \"Daily Market Check-In\"",
+      "timestamp": "2026-11-21T16:56:58.600Z"
+    },
+    {
+      "id": "log-1795280217648-581",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.25 for \"Hourly Energy Claim\"",
+      "timestamp": "2026-11-21T16:56:57.648Z"
+    },
+    {
+      "id": "log-1795280135703-928",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.6 for \"Crypto Security Knowledge Quiz\"",
+      "timestamp": "2026-11-21T16:55:35.703Z"
+    },
+    {
+      "id": "log-1795280130164-443",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.35 for \"Share Referral Link on WhatsApp\"",
+      "timestamp": "2026-11-21T16:55:30.164Z"
+    },
+    {
+      "id": "log-1795279107773-421",
+      "action": "USER_REGISTERED",
+      "details": "New user registered: Google Verified User (CEG-520708)",
+      "timestamp": "2026-11-21T16:38:27.773Z"
+    },
+    {
+      "id": "log-1795013731038-495",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.5 for \"Daily Market Check-In\"",
+      "timestamp": "2026-11-18T14:55:31.038Z"
+    },
+    {
+      "id": "log-1795013728998-138",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.25 for \"Hourly Energy Claim\"",
+      "timestamp": "2026-11-18T14:55:28.998Z"
+    },
+    {
+      "id": "log-1795011710485-706",
+      "action": "ADMIN_PASSWORD_CHANGED",
+      "details": "Administrator updated the Admin Panel access password",
+      "timestamp": "2026-11-18T14:21:50.485Z"
+    },
+    {
+      "id": "log-1795011710431-349",
+      "action": "ADMIN_LOGIN",
+      "details": "Administrator authenticated and started a secure session",
+      "timestamp": "2026-11-18T14:21:50.431Z"
+    },
+    {
+      "id": "log-1795011710355-472",
+      "action": "ADMIN_PASSWORD_CHANGED",
+      "details": "Administrator updated the Admin Panel access password",
+      "timestamp": "2026-11-18T14:21:50.355Z"
+    },
+    {
+      "id": "log-1795011710293-475",
+      "action": "ADMIN_LOGIN",
+      "details": "Administrator authenticated and started a secure session",
+      "timestamp": "2026-11-18T14:21:50.293Z"
+    },
+    {
+      "id": "log-1795011701202-116",
+      "action": "ADMIN_LOGIN",
+      "details": "Administrator authenticated and started a secure session",
+      "timestamp": "2026-11-18T14:21:41.202Z"
+    },
+    {
+      "id": "log-1794416767034-804",
+      "action": "SETTINGS_UPDATED",
+      "details": "Settings updated: forceUpdate",
+      "timestamp": "2026-11-11T17:06:07.034Z"
+    },
+    {
+      "id": "log-1794416576665-691",
+      "action": "USER_PROFILE_UPDATED",
+      "details": "User Alex Morgan (CEG-882941) updated profile details",
+      "timestamp": "2026-11-11T17:02:56.665Z"
+    },
+    {
+      "id": "log-1794416573053-890",
+      "action": "USER_VERIFIED_TOGGLED",
+      "details": "Admin toggled verification for Sarah Connor (CEG-109432): UNVERIFIED (Badge Removed)",
+      "timestamp": "2026-11-11T17:02:53.053Z"
+    },
+    {
+      "id": "log-1794416568454-146",
+      "action": "USER_VERIFIED_TOGGLED",
+      "details": "Admin toggled verification for Sarah Connor (CEG-109432): VERIFIED (Blue Badge Granted)",
+      "timestamp": "2026-11-11T17:02:48.454Z"
+    },
+    {
+      "id": "log-1794416564203-506",
+      "action": "USER_PROFILE_UPDATED",
+      "details": "User Alex Morgan (Verified) (CEG-882941) updated profile details",
+      "timestamp": "2026-11-11T17:02:44.203Z"
+    },
+    {
+      "id": "log-1794416389314-14",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.75 for \"Join Official Telegram Community\"",
+      "timestamp": "2026-11-11T16:59:49.314Z"
+    },
+    {
+      "id": "log-1794416384166-631",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.75 for \"Join Official Telegram Community\"",
+      "timestamp": "2026-11-11T16:59:44.166Z"
+    },
+    {
+      "id": "log-1794416349653-226",
+      "action": "PRODUCT_PURCHASED",
+      "details": "User Alex Morgan (CEG-882941) bought Titan Cold Hardware Key Card for $49",
+      "timestamp": "2026-11-11T16:59:09.653Z"
+    },
+    {
+      "id": "log-1794416257229-782",
+      "action": "USER_REGISTERED",
+      "details": "New user registered: Google Verified User (CEG-389433)",
+      "timestamp": "2026-11-11T16:57:37.229Z"
+    },
+    {
+      "id": "log-1794416168581-359",
+      "action": "SETTINGS_UPDATED",
+      "details": "Settings updated: appVersion, apkDownloadUrl, apkReleaseNotes, forceUpdate",
+      "timestamp": "2026-11-11T16:56:08.581Z"
+    },
+    {
+      "id": "log-1794416166922-807",
+      "action": "SETTINGS_UPDATED",
+      "details": "Settings updated: appVersion, apkDownloadUrl, apkReleaseNotes, forceUpdate",
+      "timestamp": "2026-11-11T16:56:06.922Z"
+    },
+    {
+      "id": "log-1794416122456-333",
+      "action": "BANNERS_UPDATED",
+      "details": "Updated 2 promotional banners",
+      "timestamp": "2026-11-11T16:55:22.456Z"
+    },
+    {
+      "id": "log-1794416023535-682",
+      "action": "WITHDRAWAL_APPROVED",
+      "details": "Admin approved withdrawal wth-202 ($6 USDT) for Sarah Connor",
+      "timestamp": "2026-11-11T16:53:43.535Z"
+    },
+    {
+      "id": "log-1794416020475-314",
+      "action": "DEPOSIT_APPROVED",
+      "details": "Admin approved deposit dep-103 ($25 USDT) for Alex Morgan",
+      "timestamp": "2026-11-11T16:53:40.475Z"
+    },
+    {
+      "id": "log-1794415939614-996",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.35 for \"Share Referral Link on WhatsApp\"",
+      "timestamp": "2026-11-11T16:52:19.614Z"
+    },
+    {
+      "id": "log-1794415933764-829",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.75 for \"Join Official Telegram Community\"",
+      "timestamp": "2026-11-11T16:52:13.764Z"
+    },
+    {
+      "id": "log-1794415930559-814",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.75 for \"Join Official Telegram Community\"",
+      "timestamp": "2026-11-11T16:52:10.559Z"
+    },
+    {
+      "id": "log-1794415926617-603",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.75 for \"Join Official Telegram Community\"",
+      "timestamp": "2026-11-11T16:52:06.617Z"
+    },
+    {
+      "id": "log-1794415901405-542",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.75 for \"Join Official Telegram Community\"",
+      "timestamp": "2026-11-11T16:51:41.405Z"
+    },
+    {
+      "id": "log-1794415897894-459",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.5 for \"Daily Market Check-In\"",
+      "timestamp": "2026-11-11T16:51:37.894Z"
+    },
+    {
+      "id": "log-1794415895084-885",
+      "action": "REWARD_CLAIMED",
+      "details": "User Alex Morgan (CEG-882941) claimed $0.25 for \"Hourly Energy Claim\"",
+      "timestamp": "2026-11-11T16:51:35.084Z"
+    },
+    {
+      "id": "log-1794415822190-794",
+      "action": "PRODUCT_PURCHASED",
+      "details": "User Alex Morgan (CEG-882941) bought Antminer Cloud Hashrate 10TH/s for $25",
+      "timestamp": "2026-11-11T16:50:22.190Z"
+    },
+    {
+      "id": "log-1",
+      "action": "SYSTEM_BOOT",
+      "details": "CryptoEarnGo Cloud Backend and Database Initialized successfully",
+      "timestamp": "2026-11-11T16:37:14.914Z"
+    }
+  ],
+  "notificationLogs": [
+    {
+      "id": "notif-1795340870330-772",
+      "userId": "CEG-882941",
+      "userName": "Alex Morgan",
+      "channel": "push",
+      "title": "Test Deposit Push Alert: CryptoEarnGo Active!",
+      "message": "Your account (CEG-882941) is connected to real-time deposit & withdrawal push notifications. Current balance: $2507.55 USDT.",
+      "transactionType": "deposit",
+      "amount": 1,
+      "transactionId": "tx-test-1795340870330",
+      "pushStatus": "sent",
+      "providerInfo": "Real-time Web Push (SSE + Service Worker)",
+      "createdAt": "2026-11-22T09:47:50.330Z"
+    },
+    {
+      "id": "notif-1795340868580-347",
+      "userId": "CEG-882941",
+      "userName": "Alex Morgan",
+      "channel": "push",
+      "title": "Test Deposit Push Alert: CryptoEarnGo Active!",
+      "message": "Your account (CEG-882941) is connected to real-time deposit & withdrawal push notifications. Current balance: $2507.55 USDT.",
+      "transactionType": "deposit",
+      "amount": 1,
+      "transactionId": "tx-test-1795340868580",
+      "pushStatus": "sent",
+      "providerInfo": "Real-time Web Push (SSE + Service Worker)",
+      "createdAt": "2026-11-22T09:47:48.580Z"
+    },
+    {
+      "id": "notif-1795340829471-798",
+      "userId": "CEG-882941",
+      "userName": "Alex Morgan",
+      "channel": "push",
+      "title": "Deposit Successful: +$2500.00 USDT",
+      "message": "Your $2500.00 USDT (BEP-20) deposit has been approved. New balance: $2507.55 USDT.",
+      "transactionType": "deposit",
+      "amount": 2500,
+      "transactionId": "tx-dep-1795340829467",
+      "pushStatus": "sent",
+      "providerInfo": "Real-time Web Push (SSE + Service Worker)",
+      "createdAt": "2026-11-22T09:47:09.471Z"
+    }
+  ],
+  "adminPassword": "55664411Aa",
+  "adminTokens": [
+    "bb7b009eb7fe9fffb5176052b1b0b123c39ce1f72fa533f9",
+    "d399d6b484eeb9c115cc044800d84311fdc38d9fd6482e1f",
+    "26a6ec32922c10c98f457eddd5339cbe2c28f89781ec9da4"
+  ],
+  "adminTokenOwners": {
+    "d399d6b484eeb9c115cc044800d84311fdc38d9fd6482e1f": "CEG-882941",
+    "26a6ec32922c10c98f457eddd5339cbe2c28f89781ec9da4": "CEG-882941"
+  }
+}

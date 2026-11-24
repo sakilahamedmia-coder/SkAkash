@@ -1,0 +1,6 @@
+{
+  "name": "CryptoEarnGo",
+  "description": "Complete Android crypto earning application with connected cloud backend, USDT BEP20 deposits/withdrawals, task rewards, referrals, and web Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

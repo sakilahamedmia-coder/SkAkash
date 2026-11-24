@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+:root {
+  --safe-area-inset-top: 0px;
+  --safe-area-inset-right: 0px;
+  --safe-area-inset-bottom: 0px;
+  --safe-area-inset-left: 0px;
+  --app-inset-top: max(var(--safe-area-inset-top, 0px), env(safe-area-inset-top, 0px));
+  --app-inset-right: max(var(--safe-area-inset-right, 0px), env(safe-area-inset-right, 0px));
+  --app-inset-bottom: max(var(--safe-area-inset-bottom, 0px), env(safe-area-inset-bottom, 0px));
+  --app-inset-left: max(var(--safe-area-inset-left, 0px), env(safe-area-inset-left, 0px));
+}
+
+html,
+body {
+  background-color: #020617;
+  overscroll-behavior-y: none;
+}
+
+.pt-safe {
+  padding-top: var(--app-inset-top);
+}
+
+.pb-safe {
+  padding-bottom: var(--app-inset-bottom);
+}
+
+.px-safe {
+  padding-left: var(--app-inset-left);
+  padding-right: var(--app-inset-right);
+}
+
+.p-safe {
+  padding-top: var(--app-inset-top);
+  padding-right: var(--app-inset-right);
+  padding-bottom: var(--app-inset-bottom);
+  padding-left: var(--app-inset-left);
+}
+
+@keyframes marqueeY {
+  0% {
+    transform: translateY(0%);
+  }
+  100% {
+    transform: translateY(-50%);
+  }
+}
+
+.animate-marquee-y {
+  animation: marqueeY 18s linear infinite;
+}
+
+.animate-marquee-y:hover {
+  animation-play-state: paused;
+}
